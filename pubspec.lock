@@ -179,6 +179,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.1+4"
+  messages:
+    dependency: "direct main"
+    description:
+      path: "../obj/CodeGenerator/Dart"
+      relative: true
+    source: path
+    version: "0.0.0"
   meta:
     dependency: transitive
     description:
@@ -200,6 +207,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.2.3"
+  msgtools:
+    dependency: "direct main"
+    description:
+      path: "../MsgTools/MsgApp/dart"
+      relative: true
+    source: path
+    version: "0.0.0"
   multi_server_socket:
     dependency: transitive
     description:
